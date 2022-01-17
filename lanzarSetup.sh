@@ -68,7 +68,7 @@ brctl addbr br0 > /dev/null 2>&1
 brctl addif br0 eth0 > /dev/null 2>&1
 echo "[+]bridge configurado"
 
-# habilitar enrutamiento de paquetes
+# habilitar enrutamiento de paquetes de manera persistente
 
 sed -i 's/#net.ipv4.ip_forward=1/net.ipv4.ip_forward=1/' /etc/sysctl.conf > /dev/null 2>&1
 
