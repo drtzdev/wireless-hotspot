@@ -13,11 +13,13 @@
 
     $ sudo ./lanzarSetup.sh
 
-https://user-images.githubusercontent.com/25650177/149817182-4c8f7782-2243-4021-bf98-35304c749ca7.mp4
+![imagen](https://user-images.githubusercontent.com/25650177/149844782-0d5618d1-e299-40e2-b096-7143e035b4a1.png)
 
 ### Lanzar punto de acceso 🚀
 
     $ sudo ./lanzarAP.sh
 
-https://user-images.githubusercontent.com/25650177/149817501-98c44113-ee8f-4695-a67a-cdfe2e8686ed.mp4
+https://user-images.githubusercontent.com/25650177/149845189-94cf429c-51a6-4d86-87d1-763019238ceb.mp4
+
+
 
