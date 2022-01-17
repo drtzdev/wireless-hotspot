@@ -12,8 +12,12 @@
 ### Configurar punto de acceso 🔧
 
     $ sudo ./lanzarSetup.sh
-    
+
+https://user-images.githubusercontent.com/25650177/149817182-4c8f7782-2243-4021-bf98-35304c749ca7.mp4
+
 ### Lanzar punto de acceso 🚀
 
     $ sudo ./lanzarAP.sh
+
+https://user-images.githubusercontent.com/25650177/149817501-98c44113-ee8f-4695-a67a-cdfe2e8686ed.mp4
 
