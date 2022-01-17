@@ -7,7 +7,7 @@
  
  - Kali Linux o máquina virtual Kali Linux
  - Interfaz ethernet con acceso a Internet (eth0)
- - Interfaz Wireless USB (wlan0)
+ - Interfaz Wireless USB (wlan0) con los drivers instalados
 
 ### Configurar punto de acceso 🔧
 
